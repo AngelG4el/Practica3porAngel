@@ -1,0 +1,31 @@
+/*Primer archivo de estilo apicable a cualquier otro
+Creado el jueves 11 de Abril de 2024
+Por la maestra Ana y Angel*/
+
+
+/*Esto es una ID*/
+#grantitulo {
+    text-align: center;
+    color: blue;
+    font-size: 45px;
+    font-family: Papyrus;
+}
+
+/*Estilo Simple*/
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: peru;
+}
+
+/*Estilo con Clase*/
+.importante
+{
+    border-radius: 100px;
+    cursor:pointer;
+    background-color: skyblue;
+    color: black;
+    text-decoration: underline;
+    font-size: 15px;
+    text-align: center;
+}
